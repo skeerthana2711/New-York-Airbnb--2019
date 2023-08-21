@@ -7,4 +7,4 @@ The idea of the project is to understand what impacts the price of property. The
 
 I have run correlation , Linear regression and clustering to understand the relationships between quantitative variables and dran conclusion based on it.
 
-You can view its tableau project here: https://public.tableau.com/app/profile/keerthana.sampath.kumar/viz/AirbnbNewYork_16793689803350/Story1?publish=yes
+You can view its tableau project here: https://public.tableau.com/app/profile/keerthana.sampath.kumar/viz/AirbnbNewYork_16793689803350/Story1
